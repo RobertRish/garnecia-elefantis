@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/garnecia-elefantis/static/css/main.aa80a11d.css",
+    "main.js": "/garnecia-elefantis/static/js/main.e6c98e5f.js",
+    "static/js/787.a2cb61a6.chunk.js": "/garnecia-elefantis/static/js/787.a2cb61a6.chunk.js",
+    "index.html": "/garnecia-elefantis/index.html",
+    "main.aa80a11d.css.map": "/garnecia-elefantis/static/css/main.aa80a11d.css.map",
+    "main.e6c98e5f.js.map": "/garnecia-elefantis/static/js/main.e6c98e5f.js.map",
+    "787.a2cb61a6.chunk.js.map": "/garnecia-elefantis/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa80a11d.css",
+    "static/js/main.e6c98e5f.js"
+  ]
+}
