@@ -11,7 +11,7 @@
 
 ## Description
 
-A Reat SPA that showcases the projects I've created.
+A React SPA that showcases the projects I've created.
 
 ## License
 
